@@ -1,24 +1,24 @@
 
-# Story World Codex: Peachy Quest Franchise Bible Charter & Operational Protocol
-# Based on Doležel's Heterocosmica (Codex as Operational Imperative)
+# Story World Mythos: Peachy Quest Franchise Bible Charter & Operational Protocol
+# Based on Doležel's Heterocosmica (Mythos as Operational Imperative)
 
 **World:** Peachy Quest
-**Codex Version:** 1.0 (Bible Charter Established)
+**Mythos Version:** 1.0 (Bible Charter Established)
 **Date Established:** [Current Date]
 **Ratified By:** Central Authenticational Authority (CAA) for Peachy Quest
-**Document Owner:** Lead Architect(s) / Keeper of the Codex (Transmedia IP Development Team Lead)
+**Document Owner:** Lead Architect(s) / Keeper of the Mythos (Transmedia IP Development Team Lead)
 
 ---
 
 ## Introduction: Defining the Peachy Quest Franchise Bible as the Single Source of Truth
 
-*This document charters the official **Peachy Quest Franchise Bible & World-Building Protocol** (hereinafter "the Franchise Bible" or "the Codex") for the Peachy Quest heterocosm. Recognizing the critical need for canonical consistency in collaborative and transmedia creation (as highlighted by Doležel's principles of authentication and coherence), this protocol establishes the Franchise Bible not merely as a reference tool, but as the **indispensable operational imperative** and the **single, authoritative source of truth (SSoT)** for all authenticated elements of the Peachy Quest world, especially those pertaining to its core "No Beef, Alligator Tail" premise.*
+*This document charters the official **Peachy Quest Franchise Bible & World-Building Protocol** (hereinafter "the Franchise Bible" or "the Mythos") for the Peachy Quest heterocosm. Recognizing the critical need for canonical consistency in collaborative and transmedia creation (as highlighted by Doležel's principles of authentication and coherence), this protocol establishes the Franchise Bible not merely as a reference tool, but as the **indispensable operational imperative** and the **single, authoritative source of truth (SSoT)** for all authenticated elements of the Peachy Quest world, especially those pertaining to its core "No Beef, Alligator Tail" premise.*
 
 *Its purpose is to ensure consistency, facilitate collaboration, enable coherent transmedia storytelling, and serve as the primary instrument through which the designated Central Authenticational Authority (CAA) governs the Peachy Quest heterocosm.*
 
 ---
 
-## I. Status and Authority of the Franchise Bible (The Codex)
+## I. Status and Authority of the Franchise Bible (The Mythos)
 
 *Purpose: To formally define the canonical weight and authority of the Peachy Quest Franchise Bible.*
 
@@ -31,7 +31,7 @@
 
 ---
 
-## II. Purpose and Functions of the Franchise Bible (The Codex)
+## II. Purpose and Functions of the Franchise Bible (The Mythos)
 
 *Purpose: To outline the key operational functions the Peachy Quest Franchise Bible serves within the creative and production process across the transmedia company.*
 
@@ -47,7 +47,7 @@
 
 ---
 
-## III. Structure and Format of the Franchise Bible (The Codex)
+## III. Structure and Format of the Franchise Bible (The Mythos)
 
 *Purpose: To outline the required structure and format for ensuring usability and effectiveness of the Peachy Quest Franchise Bible.*
 
@@ -61,12 +61,12 @@
 
 ---
 
-## IV. Access, Permissions, and Mandatory Usage of the Franchise Bible (The Codex)
+## IV. Access, Permissions, and Mandatory Usage of the Franchise Bible (The Mythos)
 
 *Purpose: To define who can access the Peachy Quest Franchise Bible and the requirement for its use.*
 
 *   **Read Access:** `Granted by default to all members of officially sanctioned Peachy Quest creative teams (film, TV, games, comics, novels, interactive, merchandising, marketing) and CAA members upon signing appropriate NDAs.`
-*   **Edit Access:** `Strictly limited to the designated Keeper of the Codex (Transmedia IP Development Team Lead) and potentially other designated CAA members for direct ratification and integration of approved updates. All edits must reflect formal CAA decisions that amend or append the Franchise Bible.`
+*   **Edit Access:** `Strictly limited to the designated Keeper of the Mythos (Transmedia IP Development Team Lead) and potentially other designated CAA members for direct ratification and integration of approved updates. All edits must reflect formal CAA decisions that amend or append the Franchise Bible.`
 *   **Mandatory Consultation Policy (Ref: Franchise Bible, Introduction & Article VI):**
     *   `Requirement: It is the explicit responsibility of **every creator** working on canonical Peachy Quest content to consult relevant sections of the current, ratified version of the Franchise Bible **before authenticating any potentially overlapping or conflicting information, especially regarding the "No Beef, Alligator Tail" premise and its consequences**.`
     *   `Scope: This applies to any depiction of Peachy Quest's ecology, economy, social structures, rituals, language, technology, creatures, historical assumptions, character motivations related to food/resources, etc.`
@@ -77,11 +77,11 @@
 
 ---
 
-## V. Maintenance, Updates, and Version Control of the Franchise Bible (The Codex)
+## V. Maintenance, Updates, and Version Control of the Franchise Bible (The Mythos)
 
 *Purpose: To establish procedures for keeping the Peachy Quest Franchise Bible accurate, current, and reliable as a living document central to the IP.*
 
-*   **Responsibility:** `The Keeper of the Codex (Transmedia IP Development Team Lead) is primarily responsible for the day-to-day maintenance, accuracy, organization, and integration of new information into the Franchise Bible, acting under the direction and final approval of the CAA.`
+*   **Responsibility:** `The Keeper of the Mythos (Transmedia IP Development Team Lead) is primarily responsible for the day-to-day maintenance, accuracy, organization, and integration of new information into the Franchise Bible, acting under the direction and final approval of the CAA.`
 *   **Update Triggers:** `Franchise Bible updates are triggered by: Formal CAA decisions ratifying new canonical details expanding on existing Bible sections; Approval of proposals for new world elements consistent with the Bible's framework; Resolution of canon interpretation questions; Approved clarifications or minor amendments that do not constitute a full retcon.`
 *   **Update Procedure:**
     *   `CAA formally communicates decision/new authentication/clarification to Keeper.`
@@ -96,7 +96,7 @@
 
 ---
 
-## VI. Role of the Keeper of the Codex (Peachy Quest Franchise Bible)
+## VI. Role of the Keeper of the Mythos (Peachy Quest Franchise Bible)
 
 *Purpose: To define the responsibilities and authority of the individual(s) managing the Peachy Quest Franchise Bible.*
 
