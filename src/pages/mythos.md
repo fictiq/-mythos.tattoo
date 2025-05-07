@@ -1,6 +1,6 @@
 
 # Story World Mythos: Peachy Quest Franchise Bible Charter & Operational Protocol
-# Based on Doležel's Heterocosmica (Mythos as Operational Imperative)
+# Based on Doležel's Heterocosmica (Codex as Operational Imperative)
 
 **World:** Peachy Quest
 **Mythos Version:** 1.0 (Bible Charter Established)
